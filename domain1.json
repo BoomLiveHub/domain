@@ -1,1 +1,9 @@
-{"domain":"swans.live"}
+{
+    "com.boom.showlive":{"domain":"hiziu.com"},
+    "com.orange.live":{"domain":"iorangelive.com"},
+    "com.biglion.live":{"domain":"lionlives.com"},
+    "com.swans.live":{"domain":"swans.live"},
+    "com.halocherry":{"domain":"halocherry.com"},
+    "com.halogrape.live":{"domain":"halogrape.live"},
+    "com.sugars.live":{"domain":"sugars.live"}
+}
